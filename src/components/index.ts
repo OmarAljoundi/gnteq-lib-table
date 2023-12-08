@@ -1,1 +1,1 @@
-export { default as GnteqTable } from "./gnteq-table";
+export { DataTable , DataTableHeader } from "./gnteq-table";
