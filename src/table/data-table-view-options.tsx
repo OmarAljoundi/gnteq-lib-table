@@ -1,4 +1,4 @@
-"use client";
+
 import * as React from 'react'
 import { Table } from "@tanstack/react-table";
 import { Button } from "../ui/button";
